@@ -16,11 +16,11 @@ In addition, if you want to contribute to this project, you can go to the discus
 
 ## Bugs
 ### Bug Fixes
-1.(1) --12/31/2022-- The program stop working if the debugged file have an infinite loop 
-2.(2) --12/31/2022-- The debug_log window print undesire errors
-3.(3) --12/31/2022-- The program autosaves itself
-4.(4) --12/31/2022-- Unneccesary loops causing performance problems
+1. (1) --12/31/2022-- The program stop working if the debugged file have an infinite loop 
+2. (2) --12/31/2022-- The debug_log window print undesire errors
+3. (3) --12/31/2022-- The program autosaves itself
+4. (4) --12/31/2022-- Unneccesary loops causing performance problems
 
 ### Bugs to be fix
-1.(0) No bugs were reported yet
+1. (0) No bugs were reported yet
 
