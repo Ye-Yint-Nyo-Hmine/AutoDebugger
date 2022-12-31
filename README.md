@@ -5,5 +5,6 @@
 
 
 To get started, you need to install pyautogui
-'pip install pyautogui'
+`pip install pyautogui`
+
 
