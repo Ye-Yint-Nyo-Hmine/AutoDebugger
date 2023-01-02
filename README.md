@@ -24,3 +24,6 @@ In addition, if you want to contribute to this project, you can go to the discus
 ### Bugs to be fix
 1. (0) No bugs were reported yet
 
+## New releases
+Check out the new release to be coming soon: https://github.com/Ye-Yint-Nyo-Hmine/AutoDebugger/releases/tag/v1.0.2-beta.1
+
